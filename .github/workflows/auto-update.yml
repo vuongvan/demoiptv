@@ -33,7 +33,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@master
         env:
-          ACCESS_TOKEN: ${{ secrets.REPO_SCOPED_TOKEN }}
+          ACCESS_TOKEN: GITHUB_QWERTY
           BASE_BRANCH: master
           BRANCH: gh-pages
           FOLDER: .gh-pages
