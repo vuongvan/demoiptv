@@ -4938,7 +4938,7 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/86oiZRV.jpg" tvg-url="" group-title="",RTV Westerwolde (432p)
 https://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="",RTVA (720p)
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
+http://videoad:1935/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="",RTVA (720p)
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="https://www.rtvcyl.es/entorno/rtvcyl.png" tvg-url="" group-title="",RTVcyl

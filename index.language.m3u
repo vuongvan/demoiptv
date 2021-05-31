@@ -1388,7 +1388,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 2" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Catalan",CCMA Exclusiu 2 (360p)
 https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="Catalan",RTVA (720p)
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
+http://videoad:1935/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="Catalan",RTVA (720p)
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/UJrapXK.jpg" tvg-url="" group-title="Catalan",TeleSafor (720p)
